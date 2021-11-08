@@ -1,6 +1,6 @@
 ## Daniel Pereira
 
-- 👨🏻‍💻 Currently studying Engenharia Informática at [UMinho]
+- 👨🏻‍💻 Currently studying Engenharia Informática @ [UMinho]
 - 📍 From Póvoa de Varzim, Porto, Portugal
 
 ### Connect with me:
