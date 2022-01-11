@@ -23,3 +23,4 @@
   [UMinho]: https://www.uminho.pt/PT
   [instagram]: https://www.instagram.com/danielsp_45/
   
+[![Daniel Pereira' GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsp45&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
