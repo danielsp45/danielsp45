@@ -5,8 +5,9 @@
 
 
 
-[![Daniel Pereira' GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsp45&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsp45&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsp45&layout=compact&theme=dark&hide=html,css)
 
 
 ### Language and Tools:
@@ -14,8 +15,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" />
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruil1904&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruil1904&layout=compact&theme=dark)
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" />
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
