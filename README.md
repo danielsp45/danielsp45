@@ -4,8 +4,8 @@
 - 📍 From Póvoa de Varzim, Porto, Portugal
 
 ### Top projects envolved:
-Gongo
-SpideyBlock
+[Gongo]
+[SpideyBlock]
 
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsp45&show_icons=true&theme=dark)
