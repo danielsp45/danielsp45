@@ -3,7 +3,9 @@
 - 👨🏻‍💻 Currently studying Computer Science and Engineering @ [UMinho]
 - 📍 From Póvoa de Varzim, Porto, Portugal
 
-
+### Top projects envolved:
+Gongo
+SpideyBlock
 
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsp45&show_icons=true&theme=dark)
@@ -19,12 +21,16 @@
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" />
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />         
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
   
-  
+
 
 
   
   [twitter]: https://twitter.com/danielsp_45
   [UMinho]: https://www.uminho.pt/PT
   [instagram]: https://www.instagram.com/danielsp_45/
+  [Gongo]: https://github.com/coderdojobraga/gongo
+  [SpideyBlock]: https://github.com/danielsp45/SpideyBlock-
+  
   
