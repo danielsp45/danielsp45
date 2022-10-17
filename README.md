@@ -5,11 +5,7 @@
 - 📍 From Póvoa de Varzim, Porto, Portugal
 
 ### Top projects envolved:
-**[Gongo]**
-</br>
-**[SpideyBlock]**
-</br>
-**[Stack Machine]**
+**[Gongo]** • **[SpideyBlock]** • **[Stack Machine]**
 
 <hr>
 
