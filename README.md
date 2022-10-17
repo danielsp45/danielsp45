@@ -5,7 +5,7 @@
 - 📍 From Póvoa de Varzim, Porto, Portugal
 
 ### Top projects envolved:
-**[Gongo]** • **[SpideyBlock]** • **[Stack Machine]**
+**[Gongo]** • **[SpideyBlock]** • **[Stack Machine]** • **[Bokken]**
 
 <hr>
 
@@ -39,5 +39,6 @@
   [Gongo]: https://github.com/coderdojobraga/gongo
   [SpideyBlock]: https://github.com/danielsp45/SpideyBlock-
   [Stack Machine]: https://github.com/danielsp45/Stack-Machine
+  [Bokken]: https://github.com/coderdojobraga/bokken
   
   
