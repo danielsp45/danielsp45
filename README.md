@@ -1,4 +1,4 @@
-## Daniel Pereira
+## [Daniel Pereira]
 
 - 👨🏻‍💻 Currently studying Computer Science and Engineering @ [UMinho]
 - 🥋 Jiu Jitsu practitioner
@@ -40,5 +40,6 @@
   [SpideyBlock]: https://github.com/danielsp45/SpideyBlock-
   [Stack Machine]: https://github.com/danielsp45/Stack-Machine
   [Bokken]: https://github.com/coderdojobraga/bokken
+  [Daniel Pereira]: https://www.linkedin.com/in/daniel-pereira45/
   
   
