@@ -7,12 +7,6 @@
 ### Top projects envolved:
 **[Gongo]** • **[SpideyBlock]** • **[Stack Machine]** • **[Bokken]**
 
-<hr>
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsp45&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsp45&layout=compact&theme=dark&hide=html,css)
-
-
 ### Language and Tools:
 <div>
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">  
@@ -28,11 +22,12 @@
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
   
 </div>
-  
 
+<hr>
 
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsp45&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsp45&layout=compact&theme=dark&hide=html,css)
 
-  
   [twitter]: https://twitter.com/danielsp_45
   [UMinho]: https://www.uminho.pt/PT
   [instagram]: https://www.instagram.com/danielsp_45/
@@ -41,5 +36,4 @@
   [Stack Machine]: https://github.com/danielsp45/Stack-Machine
   [Bokken]: https://github.com/coderdojobraga/bokken
   [Daniel Pereira]: https://www.linkedin.com/in/daniel-pereira45/
-  
   
