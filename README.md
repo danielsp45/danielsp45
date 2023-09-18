@@ -4,9 +4,6 @@
 - 🥋 Jiu Jitsu practitioner
 - 📍 From Póvoa de Varzim, Porto, Portugal
 
-### Top projects envolved:
-**[Gongo]** • **[SpideyBlock]** • **[Stack Machine]** • **[Bokken]**
-
 ### Language and Tools:
 <div>
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">  
